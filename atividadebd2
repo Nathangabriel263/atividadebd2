@@ -1,0 +1,19 @@
+criar banco de dados escola_bd
+criar tabela professores
+inserir na tabela professores:
+ID_professores    Nome    Materia
+1               Irineu    Portugues
+2               Jurema     Historia
+3               José      Matematica
+criar tabela alunos
+inserir na tabela alunos
+ID_alunos    Nome
+1            Enzo
+2            Valentina
+3            Noah
+criar tabela aulas
+inserir na tabela aulas
+id_professor   dia     sala
+1              seg       1
+2              qua       2
+3              sex       3
